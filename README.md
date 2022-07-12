@@ -5,7 +5,10 @@
  
 - 🌱 I’m currently learning PosgreSQL 
 
+- ✨ I'm interested in Arts and Engineering
+
 - 😄 Pronouns: She/Her
+
 
 
 <!--
